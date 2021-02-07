@@ -1,0 +1,262 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/programs/modelsim/examples
+vadder
+Z0 !s110 1610477710
+!i10b 1
+!s100 Y;`Fz?LjC0QzPeNWf8_U<1
+I]a?ACN;f^e6<d`a2o2agO1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Furkan/Desktop/250201042_p3
+w955028208
+8C:/Users/Furkan/Desktop/250201042_p3/adder.v
+FC:/Users/Furkan/Desktop/250201042_p3/adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1610477710.000000
+!s107 C:/Users/Furkan/Desktop/250201042_p3/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valu32
+R0
+!i10b 1
+!s100 15XbCd5QWSh^J`lja=FeY3
+I0RUI=U0FY`<W9Kc`R=0k31
+R1
+R2
+w1610229866
+8C:/Users/Furkan/Desktop/250201042_p3/alu32.v
+FC:/Users/Furkan/Desktop/250201042_p3/alu32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Furkan/Desktop/250201042_p3/alu32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/alu32.v|
+!s101 -O0
+!i113 1
+R5
+valucont
+Z6 !s110 1610477711
+!i10b 1
+!s100 41DY2;PVNLQPUbKizz=IT1
+IW0<lNmhbOHkaiagGBYhJC2
+R1
+R2
+w1610229859
+8C:/Users/Furkan/Desktop/250201042_p3/alucont.v
+FC:/Users/Furkan/Desktop/250201042_p3/alucont.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z7 !s108 1610477711.000000
+!s107 C:/Users/Furkan/Desktop/250201042_p3/alucont.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/alucont.v|
+!s101 -O0
+!i113 1
+R5
+vcontrol
+R6
+!i10b 1
+!s100 6hLPNB=JA>795nUF;O^Lo0
+Idh;Dg<ik?3:ldnadQKhMP1
+R1
+R2
+w1610228906
+8C:/Users/Furkan/Desktop/250201042_p3/control.v
+FC:/Users/Furkan/Desktop/250201042_p3/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Furkan/Desktop/250201042_p3/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/control.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_1_32
+Z8 !s110 1610477712
+!i10b 1
+!s100 ^aXF>kbOQm5iDYT=bV7M11
+IShFbEW076P@WQ<XAe3mU>2
+R1
+R2
+w1610206106
+8C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v
+FC:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1610477712.000000
+!s107 C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v|
+!s101 -O0
+!i113 1
+R5
+vmult2_to_1_5
+R8
+!i10b 1
+!s100 k]2`0V2=b67f6kc:ca8eK0
+ILJX@9:i9XL<1fY?g]OmdC2
+R1
+R2
+w955028066
+8C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v
+FC:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v|
+!s101 -O0
+!i113 1
+R5
+vmult3_to_1_32
+R8
+!i10b 1
+!s100 oFQmJhaO46>Cooa09ZPIE3
+Ig9iza>e91e0]CT5dTki930
+R1
+R2
+w1610309063
+8C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v
+FC:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v|
+!s101 -O0
+!i113 1
+R5
+vmult3_to_1_5
+R8
+!i10b 1
+!s100 5bQ238?05DH2EBCTH:mA50
+IXO6IW>TOoB44jhlj6W5I62
+R1
+R2
+w1610231620
+8C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v
+FC:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v|
+!s101 -O0
+!i113 1
+R5
+vprocessor
+R8
+!i10b 1
+!s100 Z19YJT68eOf3l9I41J0c[1
+IoGBVHALPhF`hU;R7L<21l0
+R1
+R2
+w1610477707
+8C:/Users/Furkan/Desktop/250201042_p3/processor.v
+FC:/Users/Furkan/Desktop/250201042_p3/processor.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Furkan/Desktop/250201042_p3/processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/processor.v|
+!s101 -O0
+!i113 1
+R5
+vshift
+R8
+!i10b 1
+!s100 GWP55OEfIRVA_6M>iSY8d2
+I;337fR0Za_VE=?WEQ9LB63
+R1
+R2
+w955028064
+8C:/Users/Furkan/Desktop/250201042_p3/shift.v
+FC:/Users/Furkan/Desktop/250201042_p3/shift.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Furkan/Desktop/250201042_p3/shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/shift.v|
+!s101 -O0
+!i113 1
+R5
+vsign_control
+Z10 !s110 1610477713
+!i10b 1
+!s100 oAf?A7FBP1STMPc@ZHO072
+I0S]CJ2`@eGQU]_f99JIf63
+R1
+R2
+w1610048902
+8C:/Users/Furkan/Desktop/250201042_p3/sign_control.v
+FC:/Users/Furkan/Desktop/250201042_p3/sign_control.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z11 !s108 1610477713.000000
+!s107 C:/Users/Furkan/Desktop/250201042_p3/sign_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/sign_control.v|
+!s101 -O0
+!i113 1
+R5
+vsignext
+R10
+!i10b 1
+!s100 JAEfRFLIAaX=@V<j@h[jS1
+IYEi<DP?P5a=X[>2BajJc32
+R1
+R2
+w1335991790
+8C:/Users/Furkan/Desktop/250201042_p3/signext.v
+FC:/Users/Furkan/Desktop/250201042_p3/signext.v
+L0 1
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Furkan/Desktop/250201042_p3/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Furkan/Desktop/250201042_p3/signext.v|
+!s101 -O0
+!i113 1
+R5

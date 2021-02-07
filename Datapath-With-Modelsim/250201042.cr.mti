@@ -1,0 +1,85 @@
+C:/Users/Furkan/Desktop/250201042_p3/alu32.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/alu32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/control.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module control
+
+Top level modules:
+	control
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/sign_control.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/sign_control.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sign_control
+
+Top level modules:
+	sign_control
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult2_to_1_32
+
+Top level modules:
+	mult2_to_1_32
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult3_to_1_5
+
+Top level modules:
+	mult3_to_1_5
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/mult3_to_1_32.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult3_to_1_32
+
+Top level modules:
+	mult3_to_1_32
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/processor.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/processor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module processor
+
+Top level modules:
+	processor
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/adder.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/mult2_to_1_5.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mult2_to_1_5
+
+Top level modules:
+	mult2_to_1_5
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/signext.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/signext.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/alucont.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/alucont.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alucont
+
+Top level modules:
+	alucont
+
+} {} {}} C:/Users/Furkan/Desktop/250201042_p3/shift.v {1 {vlog -work work -stats=none C:/Users/Furkan/Desktop/250201042_p3/shift.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}}
